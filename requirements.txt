@@ -1,5 +1,5 @@
 Flask==0.12.2
-Jinja==2.9.6
+Jinja==2.11.2
 MarkupSafe==1.0
 Werkseug==0.12.2
 click==6.7
